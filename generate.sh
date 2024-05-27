@@ -69,3 +69,7 @@ do
         "$file" \
         '/C=US/ST=California/L=Mountain View/O=Android/OU=Android/CN=Android/emailAddress=android@android.com'
 done
+
+rm -rf .git
+rm README.md
+rm "$0"
