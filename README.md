@@ -1,4 +1,4 @@
-# evolution-priv_keys-template
+# lineage-priv_keys-template
 
 # Usage
 
